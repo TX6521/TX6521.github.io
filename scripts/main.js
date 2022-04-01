@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['MY DEAR', 'LOOK UP AT THE', 'STARRY SKY', 'ARE YOU', 'LOOKING AT THE', 'SAME STAR', 'WITH ME ?', 'HAPPY', 'CHINESE', 'VALENTINE\'S', 'DAY', 'I MISS YOU']
+  let texts = ['MY DEAR', 'LOOK UP AT THE', 'STARRY SKY', '夜空中最亮的星', '会指引着你前行', 'Keep Running', 'Hold on', '而我', 'T兴',  '一直在', 'I MISS YOU']
 
   let canvas,
     ctx,
